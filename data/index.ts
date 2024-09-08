@@ -84,7 +84,7 @@ export const projects = [
         des: "Try OrderIt! Explore our app for quick, easy, and delicious food ordering right at your fingertips.",
         img: "/p2.svg",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-        link: "#",
+        link: "https://github.com/Himanshu66109/FoodOrderingWSA",
     },
     // {
     //     id: 3,
